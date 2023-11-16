@@ -1,0 +1,14 @@
+C:\Users\rezm\Documents\GitHub\AdventOfCode\2022\AoC_2022_1\AoC_2022_1\bin\Debug\net8.0\AoC_2022_1.exe
+C:\Users\rezm\Documents\GitHub\AdventOfCode\2022\AoC_2022_1\AoC_2022_1\bin\Debug\net8.0\AoC_2022_1.deps.json
+C:\Users\rezm\Documents\GitHub\AdventOfCode\2022\AoC_2022_1\AoC_2022_1\bin\Debug\net8.0\AoC_2022_1.runtimeconfig.json
+C:\Users\rezm\Documents\GitHub\AdventOfCode\2022\AoC_2022_1\AoC_2022_1\bin\Debug\net8.0\AoC_2022_1.dll
+C:\Users\rezm\Documents\GitHub\AdventOfCode\2022\AoC_2022_1\AoC_2022_1\bin\Debug\net8.0\AoC_2022_1.pdb
+C:\Users\rezm\Documents\GitHub\AdventOfCode\2022\AoC_2022_1\AoC_2022_1\obj\Debug\net8.0\AoC_2022_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rezm\Documents\GitHub\AdventOfCode\2022\AoC_2022_1\AoC_2022_1\obj\Debug\net8.0\AoC_2022_1.AssemblyInfoInputs.cache
+C:\Users\rezm\Documents\GitHub\AdventOfCode\2022\AoC_2022_1\AoC_2022_1\obj\Debug\net8.0\AoC_2022_1.AssemblyInfo.cs
+C:\Users\rezm\Documents\GitHub\AdventOfCode\2022\AoC_2022_1\AoC_2022_1\obj\Debug\net8.0\AoC_2022_1.csproj.CoreCompileInputs.cache
+C:\Users\rezm\Documents\GitHub\AdventOfCode\2022\AoC_2022_1\AoC_2022_1\obj\Debug\net8.0\AoC_2022_1.dll
+C:\Users\rezm\Documents\GitHub\AdventOfCode\2022\AoC_2022_1\AoC_2022_1\obj\Debug\net8.0\refint\AoC_2022_1.dll
+C:\Users\rezm\Documents\GitHub\AdventOfCode\2022\AoC_2022_1\AoC_2022_1\obj\Debug\net8.0\AoC_2022_1.pdb
+C:\Users\rezm\Documents\GitHub\AdventOfCode\2022\AoC_2022_1\AoC_2022_1\obj\Debug\net8.0\AoC_2022_1.genruntimeconfig.cache
+C:\Users\rezm\Documents\GitHub\AdventOfCode\2022\AoC_2022_1\AoC_2022_1\obj\Debug\net8.0\ref\AoC_2022_1.dll
