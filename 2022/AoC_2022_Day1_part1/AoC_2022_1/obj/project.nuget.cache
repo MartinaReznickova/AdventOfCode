@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rDTRca+sxgCquXZIwKAoRqibWdg87CiBFsDp6bz9GFbORp8+HYgBvzNoLin4SijjJQ+D7aI1AuBZjCRJTmc4cw==",
+  "dgSpecHash": "3VA8pbvgvw54r1pWCClEpAzlrj8uvfrQoBspXK1F7RVx23FOdtnWero5i+ce84NdALIuPEfGsgy3q3BD9JqG+A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\rezm\\Documents\\GitHub\\AdventOfCode\\2022\\AoC_2022_1\\AoC_2022_1\\AoC_2022_1.csproj",
+  "projectFilePath": "C:\\Users\\rezm\\Documents\\GitHub\\AdventOfCode\\2022\\AoC_2022_Day1_part1\\AoC_2022_1\\AoC_2022_1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

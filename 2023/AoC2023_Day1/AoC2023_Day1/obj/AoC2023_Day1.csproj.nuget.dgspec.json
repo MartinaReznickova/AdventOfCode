@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rezm\\Documents\\GitHub\\AdventOfCode\\2022\\AoC_2022_Day1_part1\\AoC_2022_1\\AoC_2022_1.csproj": {}
+    "C:\\Users\\rezm\\Documents\\GitHub\\AdventOfCode\\2023\\AoC2023_Day1\\AoC2023_Day1\\AoC2023_Day1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rezm\\Documents\\GitHub\\AdventOfCode\\2022\\AoC_2022_Day1_part1\\AoC_2022_1\\AoC_2022_1.csproj": {
+    "C:\\Users\\rezm\\Documents\\GitHub\\AdventOfCode\\2023\\AoC2023_Day1\\AoC2023_Day1\\AoC2023_Day1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rezm\\Documents\\GitHub\\AdventOfCode\\2022\\AoC_2022_Day1_part1\\AoC_2022_1\\AoC_2022_1.csproj",
-        "projectName": "AoC_2022_1",
-        "projectPath": "C:\\Users\\rezm\\Documents\\GitHub\\AdventOfCode\\2022\\AoC_2022_Day1_part1\\AoC_2022_1\\AoC_2022_1.csproj",
+        "projectUniqueName": "C:\\Users\\rezm\\Documents\\GitHub\\AdventOfCode\\2023\\AoC2023_Day1\\AoC2023_Day1\\AoC2023_Day1.csproj",
+        "projectName": "AoC2023_Day1",
+        "projectPath": "C:\\Users\\rezm\\Documents\\GitHub\\AdventOfCode\\2023\\AoC2023_Day1\\AoC2023_Day1\\AoC2023_Day1.csproj",
         "packagesPath": "C:\\Users\\rezm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rezm\\Documents\\GitHub\\AdventOfCode\\2022\\AoC_2022_Day1_part1\\AoC_2022_1\\obj\\",
+        "outputPath": "C:\\Users\\rezm\\Documents\\GitHub\\AdventOfCode\\2023\\AoC2023_Day1\\AoC2023_Day1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
